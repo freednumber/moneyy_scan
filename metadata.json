@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Moneyy - Smart Receipt Scanner",
+  "description": "An intelligent personal finance tracker that scans receipts to automatically log transactions using the Gemini API.",
+  "requestFramePermissions": []
+}
